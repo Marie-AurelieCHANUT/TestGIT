@@ -1,1 +1,2 @@
 C'est le fichier 6
+Petit modif du fichier 6 pour voir l'interet de fetch
